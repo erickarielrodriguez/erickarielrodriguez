@@ -12,6 +12,8 @@
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
-<div>
 
-</div>
+## Projetos Criados:
+<div style="display": inline_block><br/>
+ <img alt="C" src="https://user-images.githubusercontent.com/121519771/210662914-624b90bb-59a4-4a9f-9af6-45792da5ed40.png" width="150px"/>
+</div><br/>
