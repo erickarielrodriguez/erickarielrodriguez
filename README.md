@@ -13,4 +13,3 @@
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </div><br/>
 
-Estou na faculdade de analise e desenvolvimento de sistemas, em meu tempo livre sempre busco aperfeiçoar minhas habilidades na programação 
