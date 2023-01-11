@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Erick Ariel 🖐
 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erick_arielhr/)
-
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-rodriguez-28828b225/)
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erickarielrodriguez&show_icons=true&theme=tokyonight)[![Erick Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickarielrodriguez)](https://github.com/anuraghazra/github-readme-stats)
 
